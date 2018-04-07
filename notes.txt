@@ -2,3 +2,13 @@
 
 readme conflicts
 git pull origin master --allow-unrelated-histories
+
+local MAMP server
+http://localhost:81/MAMP/index.php?language=English
+http://localhost:81/inspections.php
+
+http://localhost:81/newInspection.html
+
+
+
+
